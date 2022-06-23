@@ -2,3 +2,6 @@
 
 #EXTINF:-0, espn
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=UNOj68CE8sQ6w1Y4dBL3jg&expires=1656027357
+
+#EXTINF:-0, espn opcion 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=UNOj68CE8sQ6w1Y4dBL3jg&expires=1656027357&ip=187.153.10.202
