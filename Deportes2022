@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-0, espn
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=90eTMqV2UyHoIYsH5mqDfA&expires=1656038297&ip=187.153.10.202
+#EXTINF:-0, Espn 1 Mx
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=LDxGZs8tGDONK5x490tE9w&expires=1656105910&ip=187.153.10.202
 
-#EXTINF:-0, canal 5
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/2_.m3u8?token=W30IYga_NqsOCAC1i1bgOw&expires=1656037688&ip=187.153.10.202
+#EXTINF:-0, Espn 2 Mx
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/28_.m3u8?token=22jWklAJC7VT8-zbrRCSCg&expires=1656106081&ip=187.153.10.202
