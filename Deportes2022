@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-0, Espn 1 Mx
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=X4JMBJ7ntweG1QUbvlhCQw&expires=1656218311&ip=187.153.10.202
+#EXTINF:-0, Espn 1
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=JdmyUoh-whwmdzIjuLN8EA&expires=1656350103&ip=187.153.10.202
 
-#EXTINF:-0, Espn 2 Mx
-https://vm7g7mccj8y9269k.cdnexpress37.net:8443/hls/313bwweg2v1km.m3u8?s=jsLU_LHyamHd4o8c7_ofAg&e=1656358911
+#EXTINF:-0, Espn 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/18_.m3u8?token=klfbWp0Js3eOUziNNvAnYw&expires=1656350140&ip=187.153.10.202
+
+#EXTINF:-0, Espn 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/52_.m3u8?token=yPRZTpJlES8ENXky95I6RQ&expires=1656349986&ip=187.153.10.202
