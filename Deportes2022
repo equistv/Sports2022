@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-0, Espn 1
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=9kebYDsPDzbFwTjUbnB0vA&expires=1657594240&ip=187.153.1.138
+#EXTINF:-0, canal 5
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?lchId=20&rows=5&session=u6iwnfryd87ooby&format=HLS&f.m3u8
