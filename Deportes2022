@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-0, Espn Mx1
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=hTdOKEP3WRu0IelpUdRDgg&expires=1659043180&ip=187.153.0.128
+#EXTINF:-0, Fox Sports Premium
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=WMuKIVQhb9SqKo_zgwT65w&expires=1659065799&ip=187.153.0.128
 #EXTINF:-0, ESPN MX
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=nL4EHsl75gARwmGT5tCofA&expires=1659046630&ip=187.153.0.128
 #EXTINF:-0, Canal 5
