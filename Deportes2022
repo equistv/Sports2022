@@ -1,18 +1,6 @@
 #EXTM3U
 
-#EXTINF:-0, Fox Sports Premium
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=WMuKIVQhb9SqKo_zgwT65w&expires=1659065799&ip=187.153.0.128
+#EXTINF:-0, ESPN ARG
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=KwgafU9P2JuA5HFeXW2FPQ&expires=1659208889&ip=187.153.66.91
 #EXTINF:-0, ESPN MX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=nL4EHsl75gARwmGT5tCofA&expires=1659046630&ip=187.153.0.128
-#EXTINF:-0, Canal 5
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/2_.m3u8?token=r24Neozyxb5KQrs9awMwyw&expires=1659043296&ip=187.153.0.128
-#EXTINF:-0, CANAL 5
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/2_.m3u8?token=-v-sYeKs7Af-DdXLi0_PEQ&expires=1659046684&ip=187.153.0.128
-#EXTINF:-0, Leaving Las Vegas
-https://www2246.ff-05.com/token=E3Z1yYm8HFwQRZVsG1nVAQ/1659047434/2806:109f::/202/3/fe/108c775035a11b30fee73c08cdec3fe3-480p.mp4
-#EXTINF:-0, LEAVING LAS VEGAS
-https://www2246.ff-05.com/token=Ez6btYRfIzTVuzp8pwx4rA/1659053027/2806:109f::/202/3/fe/108c775035a11b30fee73c08cdec3fe3-480p.mp4
-#EXTINF:-0, Telefono Negro sub
-https://www583.ff-02.com/token=lrCZm2ydpqm6ZSHTPa3UBw/1659063632/2806:109f::/197/7/cb/0f3c61110a4d2fb84b4f05aebcd9fcb7-480p.mp4
-#EXTINF:-0, 8 mm
-https://www725.ff-02.com/token=Qoqok70DLP5wXhH17YJh3w/1659074196/2806:109f::/132/e/93/801a612ea1ec0f5ae958498d6892c93e-720p.mp4
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=rtaHeJO02HxWt6mmfas0wQ&expires=1659209103&ip=187.153.66.91
