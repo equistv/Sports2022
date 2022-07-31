@@ -1,6 +1,4 @@
 #EXTM3U
 
 #EXTINF:-0, ESPN ARG
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=KwgafU9P2JuA5HFeXW2FPQ&expires=1659208889&ip=187.153.66.91
-#EXTINF:-0, ESPN MX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=rtaHeJO02HxWt6mmfas0wQ&expires=1659209103&ip=187.153.66.91
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/ys2tiwqo.m3u8?s=uM80nCMeOOqKo0YpvFGv1w&e=1659247477
