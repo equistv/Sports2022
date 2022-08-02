@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-0, El Captor
-https://s12.zplayer.live/hls/,5fxc7cjfxgnufvsa6ige7q6pxk3d2ionrgusq5zgmfq7yio2x3ikxft45uta,.urlset/master.m3u8
 #EXTINF:-0, Fox deportes
 http://alfa.7057460.xyz:2095/Santos2021/Santos1234/7787
-#EXTINF:-0, gray
-https://s12.zplayer.live/hls/,5fxc7cjfxgnufvsa6ige7q6pxk3d2ionrgusq5zgmfq7yio2x3ikxyt45uta,.urlset/master.m3u8
 #EXTINF:-0, Fox Sports Premium
 http://alfa.7057460.xyz:2095/Santos2021/Santos1234/7171
